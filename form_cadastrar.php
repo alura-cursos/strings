@@ -18,7 +18,7 @@
             </div>
 
             <div class="form-group">
-                <label for="genero">Genero:</label>
+                <label for="genero">Gênero:</label>
                 <select id="genero" name="genero" class="form-control">
                     <option>M</option>
                     <option>F</option>
