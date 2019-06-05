@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura;
+namespace App\Alura;
 
 class Usuario
 {
