@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="mx-5 my-5">
-    <h1>Formulário de cadastro ByteBank</h1>
+    <h1>Formulário de cadastro loja virtual</h1>
 
         <form action="/cadastro.php" method="post">
             <div class="form-group">
